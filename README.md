@@ -15,19 +15,6 @@ This repo is my open learning journal where I document everything I study and bu
 
 ---
 
-## What's Inside
-
-| Folder | Description |
-|--------|-------------|
-| `python-basics/` | Variables, loops, functions, OOP |
-| `dsa/` | Data Structures & Algorithms |
-| `data-science/` | NumPy, Pandas, Matplotlib |
-| `ml-basics/` | Machine Learning fundamentals |
-| `mini-projects/` | Hands-on projects |
-| `notes/` | Concepts & cheatsheets |
-
----
-
 ## Progress
 
 - [x] Set up GitHub and first repository
@@ -45,7 +32,7 @@ This repo is my open learning journal where I document everything I study and bu
 - **Language:** Python,C,Java
 - **Editor:** VS Code
 - **Version Control:** Git & GitHub
-- **Notebooks:** Jupyter
+  
 
 ---
 
