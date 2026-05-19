@@ -1,6 +1,5 @@
 # learning-log
 My programming journey from scratch — documenting everything I learn .
-> My programming journey as a CS + AI/ML undergraduate — documented from day one
 
 ---
 
