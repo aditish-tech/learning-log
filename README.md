@@ -13,23 +13,12 @@ This repo is my open learning journal where I document everything I study and bu
 - 🌱 Currently learning: Python Fundamentals
 - 🎯 Goal: Strong programming foundation → AI/ML Engineer
 
----
-
-## Progress
-
-- [x] Set up GitHub and first repository
-- [ ] Complete Python basics
-- [ ] Solve 50+ DSA problems
-- [ ] Learn NumPy, Pandas & Matplotlib
-- [ ] Understand core ML algorithms
-- [ ] Build 3 mini projects
-- [ ] Complete one AI/ML course
 
 ---
 
 ## Tools I Use
 
-- **Language:** Python,C,Java
+- **Language:** Python,C,Java,C++
 - **Editor:** VS Code
 - **Version Control:** Git & GitHub
   
